@@ -1,0 +1,4 @@
+This is a simple script to replace Tabs in .py files with 
+4 spaces.
+more than 4 spaces gain in the next code line is reduced to 
+4 spaces.
